@@ -40,8 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="IVenta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentaN.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UPC.Order.Entities\UPC.Order.Entities.csproj">

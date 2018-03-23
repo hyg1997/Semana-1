@@ -11,8 +11,8 @@ namespace UPC.Order.Entities
         public Cliente cliente { get; set; }
         public Producto producto { get; set; }
         public Int32 cantidad { get; set; }
-        public float subtotal { get; set; }
-        public float descuento { get; set; }
-        public float neto { get; set; }
+        public Double subtotal { get; set; }
+        public Double descuento { get; set; }
+        public Double neto { get; set; }
     }
 }
