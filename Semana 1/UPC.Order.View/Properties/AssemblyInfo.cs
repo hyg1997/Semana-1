@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Operaciones")]
+[assembly: AssemblyTitle("UPC.Order.View")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Operaciones")]
+[assembly: AssemblyProduct("UPC.Order.View")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ef2e60fb-c4d8-4fcd-b8c5-bff650f6e81c")]
+[assembly: Guid("9bae7430-ab47-40bf-8035-583446f60e43")]
 
 // Version information for an assembly consists of the following four values:
 //

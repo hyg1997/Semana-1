@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Myform
+namespace UPC.Order.View
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Myform
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Calculadora());
+            Application.Run(new Form1());
         }
     }
 }

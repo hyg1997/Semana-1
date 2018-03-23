@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Myform.Properties
+namespace UPC.Order.View.Properties
 {
 
 
